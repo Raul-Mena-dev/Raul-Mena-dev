@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raul-mena-dev&label=Profile%20views&color=0e75b6&style=flat" alt="raul-mena-dev" /> </p>
 
-- 🌱 I’m currently learning **Django, React and Node**
+- 🌱 I’m currently learning **Data science**
 
 - 📫 How to reach me **raulmenadev@gmail.com**
 
